@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Oluwaseyi Olufemi</h1>
-<h3 align="center">Aspiring Computer Science professional at Hostos Community College. Proficient in programming languages like Python, C, C++, and experienced in web and mobile app development. Developed projects such as a console-based TicTacToe game in Ruby and a versatile utility hub in Python. Skills include computer literacy, cloud solutions optimization, and strong customer service. Let's connect and share our tech journeys!</h3>
+<h3 align="center">Detail-oriented, analytical, and self-driven programmer with experience building user-facing applications. Proficient in‬ Python and experienced with Django for backend development. Efficient coder with skills in HTML, and CSS. Excited to‬
+‭ contribute to innovative projects and facilitate company growth while expanding my skill set in a dynamic environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=some4real&label=Profile%20views&color=0e75b6&style=flat" alt="some4real" /> </p>
 
